@@ -9,7 +9,7 @@ Pocetak youtube karijere
 </h2>
 <hr>
 <p1>
-Sve je pocelo kad sam izbacio prvi video 14. 12. 2020. to je bio video u kome sam igrao among us sa drugaricom Sarom. Nisam to radio zbog paznje ili para, vec zbog zabave. Posle tog videa sam izbacio jos dosta drugih.
+Sve je pocelo kad sam izbacio prvi video 14. 12. 2020. to je bio video u kome sam igrao among us sa drugaricom Sarom. to sam uradio zbog zabave. Posle tog videa sam izbacio jos dosta drugih.
 </p1>
 <h3>
 Uzori za snimanje videa
@@ -31,5 +31,15 @@ Ciljevi
 <br>4-da dodjem do 10000 suba
 <br>5-da na jednom videu imam 1000 pregleda
 </p3>
+<h5>
+Problemi
+</h5>
+<hr>
+<p4>
+Najveci problem je bio u skorije vreme kada sam izbacio video kako skinuti csgo u 2024. godini, taj video mi je odmah izbrisan i dobio sam upozorenje. YouTube je mogao da me obavesti putem maila dok je taj video bio private da nije prikladan,ali ocigledno da to nisu hteli
+</p4>
 </head>
+<body>
+
+</body>
 </html>
